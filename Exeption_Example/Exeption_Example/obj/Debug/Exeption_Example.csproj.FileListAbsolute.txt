@@ -1,0 +1,7 @@
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\bin\Debug\Exeption_Example.exe.config
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\bin\Debug\Exeption_Example.exe
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\bin\Debug\Exeption_Example.pdb
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\obj\Debug\Exeption_Example.csprojResolveAssemblyReference.cache
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\obj\Debug\Exeption_Example.csproj.CoreCompileInputs.cache
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\obj\Debug\Exeption_Example.exe
+D:\TopLearn\C#\TopLearn.Com_Csharp_Part06\Exeption_Example\Exeption_Example\obj\Debug\Exeption_Example.pdb
