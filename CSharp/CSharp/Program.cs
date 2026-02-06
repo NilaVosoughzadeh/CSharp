@@ -31,6 +31,60 @@ namespace CSharp
             int sum = num1 + num2;
             Console.WriteLine("Sum is : " + sum);
             Console.ReadKey();
+
+            //If Else
+            // Operators : != , == , > , < , <= , >=
+            string name = "";
+            string family = "";
+            Console.WriteLine("Plz enter name : ");
+            name = Console.ReadLine().ToLower();
+            Console.WriteLine("Plz enter family : ");
+            family = Console.ReadLine().ToLower();
+            if (name == "nila" && family == "vo")
+            {
+                Console.WriteLine("Hello Nila Vo");
+            }
+            else
+            {
+                Console.WriteLine("Hello ...");
+            }
+
+            //Switch , Case
+            Console.WriteLine("Plz enter number");
+            int numberOfWeek = Convert.ToInt32(Console.ReadLine());
+            switch (numberOfWeek)
+            {
+                case 0:
+                    Console.WriteLine("Shanbe");
+                    break;
+                case 1:
+                    Console.WriteLine("1Shanbe");
+                    break;
+                case 2:
+                    Console.WriteLine("2Shanbe");
+                    break;
+                case 3:
+                    Console.WriteLine("3Shanbe");
+                    break;
+                case 4:
+                    Console.WriteLine("4Shanbe");
+                    break;
+                case 5:
+                    Console.WriteLine("5Shanbe");
+                    break;
+                case 6:
+                    Console.WriteLine("Jome");
+                    break;
+                default:
+                    Console.WriteLine("Not Found");
+                    break;
+            }
+
+            //Loop
+            for (int i = 0; i <= 10; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
