@@ -85,6 +85,9 @@ namespace CSharp
             {
                 Console.WriteLine(i);
             }
+
+            //Array
+            int[] numbers = {1, 3, 5, 7};
         }
     }
 }
