@@ -87,7 +87,37 @@ namespace CSharp
             }
 
             //Array
-            int[] numbers = {1, 3, 5, 7};
+            int[] numbers = { 1, 3, 5, 7 };
+            int numberIndex = numbers[0];
+
+            //Person Example
+            try
+            {
+                Console.WriteLine("Plz Enter Person Number : ");
+                int personNumbers = Convert.ToInt32(Console.ReadLine());
+                string[] Names = new string[personNumbers];
+                for (int i = 1; i < personNumbers; i++)
+                {
+                    Console.WriteLine("Please Enter Name" + (i));
+                    Names[i] = Console.ReadLine();
+                }
+                foreach (string n in Names)
+                {
+                    Console.WriteLine("Hello " + n);
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Plz Enter Just Number");
+            }
+
+            //While
+            int i = 0;
+            while (i > 5)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
         }
     }
 }
