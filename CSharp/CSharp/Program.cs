@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -81,9 +82,9 @@ namespace CSharp
             }
 
             //Loop
-            for (int i = 0; i <= 10; i++)
+            for (int j = 0; j <= 10; j++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(j);
             }
 
             //Array
@@ -96,10 +97,10 @@ namespace CSharp
                 Console.WriteLine("Plz Enter Person Number : ");
                 int personNumbers = Convert.ToInt32(Console.ReadLine());
                 string[] Names = new string[personNumbers];
-                for (int i = 1; i < personNumbers; i++)
+                for (int p = 1; p < personNumbers; p++)
                 {
-                    Console.WriteLine("Please Enter Name" + (i));
-                    Names[i] = Console.ReadLine();
+                    Console.WriteLine("Please Enter Name" + (p));
+                    Names[p] = Console.ReadLine();
                 }
                 foreach (string n in Names)
                 {
@@ -118,6 +119,28 @@ namespace CSharp
                 Console.WriteLine(i);
                 i++;
             }
+
+            //Method
+            SayHello();
+
+            Console.WriteLine(FullName("Nila", "Vo"));
+        }
+        static void SayHello()
+        {
+            Console.WriteLine("Hello");
+        }
+        static void SayHello(string name)
+        {
+            Console.WriteLine("Hello " + name);
+        }
+        static int Sum(int a = 10, int b = 5)
+        {
+            return a + b;
+        }
+
+        static string FullName(string name, string family)
+        {
+            return name + " " + family;
         }
     }
 }
