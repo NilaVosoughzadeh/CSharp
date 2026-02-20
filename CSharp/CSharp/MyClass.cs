@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    internal class Nila
+    internal class MyClass
     {
     }
 }
