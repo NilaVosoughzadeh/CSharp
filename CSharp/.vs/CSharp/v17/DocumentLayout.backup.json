@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\nila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\nila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,14 +51,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Nila.cs",
-              "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Nila.cs",
-              "RelativeDocumentMoniker": "CSharp\\Nila.cs",
-              "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Nila.cs",
-              "RelativeToolTip": "CSharp\\Nila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Person.cs",
+              "RelativeDocumentMoniker": "CSharp\\Person.cs",
+              "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Person.cs",
+              "RelativeToolTip": "CSharp\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T17:25:11.603Z",
+              "WhenOpened": "2026-02-20T20:04:31.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Car.cs",
+              "RelativeDocumentMoniker": "CSharp\\Car.cs",
+              "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Car.cs",
+              "RelativeToolTip": "CSharp\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:14:07.288Z",
               "EditorCaption": ""
             },
             {
@@ -65,7 +82,7 @@
               "RelativeDocumentMoniker": "CSharp\\Program.cs",
               "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Program.cs",
               "RelativeToolTip": "CSharp\\Program.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAQwIcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwJcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T21:21:16.798Z",
               "EditorCaption": ""

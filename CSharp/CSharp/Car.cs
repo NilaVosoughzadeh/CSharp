@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    internal class MyClass
+    internal class Car
     {
+        public string CarName;
+        public int CarSpeed;
+        public string CarModel;
     }
 }
