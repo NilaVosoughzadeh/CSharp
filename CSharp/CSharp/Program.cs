@@ -131,35 +131,40 @@ namespace CSharp
             car1.CarSpeed = 100;
             car1.CarModel = "1400";
 
-            Person p1 = new Person("nila", "vo", 20);
-            Console.WriteLine($"Name : {p1.name} Family : {p1.family} Age : {p1.age}");
+            //Person p1 = new Person("nila", "vo", 20);
+            //Console.WriteLine($"Name : {p1.name} Family : {p1.family} Age : {p1.age}");
 
-            Console.WriteLine("Please Enter Personal Number :");
-            int numberPerson = Convert.ToInt32(Console.ReadLine());
-            Person[] people = new Person[numberPerson];
+            //Console.WriteLine("Please Enter Personal Number :");
+            //int numberPerson = Convert.ToInt32(Console.ReadLine());
+            //Person[] people = new Person[numberPerson];
 
-            for (int q = 0; q < numberPerson; q++)
-            {
-                Console.WriteLine($"Please Enter Person[{(q + 1)}] Name :");
-                string namePerson = Console.ReadLine();
+            //for (int q = 0; q < numberPerson; q++)
+            //{
+            //    Console.WriteLine($"Please Enter Person[{(q + 1)}] Name :");
+            //    string namePerson = Console.ReadLine();
 
-                Console.WriteLine($"Please Enter Person[{(q + 1)}] Family :");
-                string familyPerson = Console.ReadLine();
+            //    Console.WriteLine($"Please Enter Person[{(q + 1)}] Family :");
+            //    string familyPerson = Console.ReadLine();
 
-                Console.WriteLine($"Please Enter Person[{(q + 1)}] Age :");
-                string agePerson = Console.ReadLine();
+            //    Console.WriteLine($"Please Enter Person[{(q + 1)}] Age :");
+            //    string agePerson = Console.ReadLine();
 
-                Person p = new Person(name, family, age);
-                people[i] = p;
-            }
+            //    Person p = new Person(name, family, age);
+            //    people[i] = p;
+            //}
 
-            Console.ForegroundColor = ConsoleColor.Green;
-            foreach (Person person in people)
-            {
-                Console.WriteLine($"Name : {person.name} Family : {person.family} WebSite : {person.age}");
-            }
-            Console.ResetColor();
-            Console.ReadKey();
+            //Console.ForegroundColor = ConsoleColor.Green;
+            //foreach (Person person in people)
+            //{
+            //    Console.WriteLine($"Name : {person.name} Family : {person.family} WebSite : {person.age}");
+            //}
+            //Console.ResetColor();
+
+            //Static
+            Person Vusi = new Person();
+            Vusi.name = "Arash";
+            Person.website = "web";
+
         }
         static void SayHello()
         {
