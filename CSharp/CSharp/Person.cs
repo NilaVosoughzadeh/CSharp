@@ -13,11 +13,16 @@ namespace CSharp
         public int age;
         public static string website;
 
-    //public Person(string name, string family, int age)
-    //    {
-    //        this.name = name;
-    //        this.family = family;
-    //        this.age = age;
-    //    }
+        //public Person(string name, string family, int age)
+        //    {
+        //        this.name = name;
+        //        this.family = family;
+        //        this.age = age;
+        //    }
+
+        public static int Sum(int a, int b)
+        {
+            return a + b;
+        }
     }
 }

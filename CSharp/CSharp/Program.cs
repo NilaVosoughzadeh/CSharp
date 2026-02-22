@@ -164,6 +164,9 @@ namespace CSharp
             Person Vusi = new Person();
             Vusi.name = "Arash";
             Person.website = "web";
+            int sumy = Person.Sum(4, 4);
+
+            Console.WriteLine(MyClass.Country);
 
         }
         static void SayHello()
