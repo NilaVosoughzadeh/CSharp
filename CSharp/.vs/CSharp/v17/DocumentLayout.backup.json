@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\csharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,38 +43,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyClass.cs",
-              "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\MyClass.cs",
-              "RelativeDocumentMoniker": "CSharp\\MyClass.cs",
-              "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\MyClass.cs",
-              "RelativeToolTip": "CSharp\\MyClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T09:05:34.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Person.cs",
-              "RelativeDocumentMoniker": "CSharp\\Person.cs",
-              "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Person.cs",
-              "RelativeToolTip": "CSharp\\Person.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T20:04:31.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Program.cs",
               "RelativeDocumentMoniker": "CSharp\\Program.cs",
               "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Program.cs",
               "RelativeToolTip": "CSharp\\Program.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwKgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwKoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T21:21:16.798Z",
               "EditorCaption": ""

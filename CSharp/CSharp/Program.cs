@@ -168,6 +168,8 @@ namespace CSharp
 
             Console.WriteLine(MyClass.Country);
 
+            //Inheritance
+
         }
         static void SayHello()
         {
