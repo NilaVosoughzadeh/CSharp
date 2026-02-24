@@ -169,6 +169,7 @@ namespace CSharp
             Console.WriteLine(MyClass.Country);
 
             //Inheritance
+            Child.Sum(10, 2);
 
         }
         static void SayHello()
