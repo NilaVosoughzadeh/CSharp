@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\csharp\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +54,7 @@
               "RelativeToolTip": "CSharp\\Child.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:28:41.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T07:28:41.038Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "CSharp\\Program.cs",
               "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Program.cs",
               "RelativeToolTip": "CSharp\\Program.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAgwKsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAgwK0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T21:21:16.798Z",
               "EditorCaption": ""

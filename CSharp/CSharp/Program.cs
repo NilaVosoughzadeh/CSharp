@@ -171,6 +171,7 @@ namespace CSharp
             //Inheritance
             Child.Sum(10, 2);
 
+            //Encapsulation 
         }
         static void SayHello()
         {
