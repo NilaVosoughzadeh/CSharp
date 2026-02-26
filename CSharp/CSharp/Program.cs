@@ -90,6 +90,8 @@ namespace CSharp
             //Array
             int[] numbers = { 1, 3, 5, 7 };
             int numberIndex = numbers[0];
+            int[] numberArray = { 1, 2, 3 };
+            string[] nameArray = new string[3];
 
             //Person Example
             try
@@ -127,7 +129,6 @@ namespace CSharp
 
             //Class
             Car car1 = new Car();
-            car1.CarName = "Pride";
             car1.CarSpeed = 100;
             car1.CarModel = "1400";
 
@@ -171,7 +172,21 @@ namespace CSharp
             //Inheritance
             Child.Sum(10, 2);
 
-            //Encapsulation 
+            //Property (Encapsulation)
+            Car pejo = new Car();
+            pejo.CarSpeed = 100;
+
+            //Generic List
+            List<int> Nums = new List<int>();
+            Nums.Add(5);
+            Nums.Add(10);
+            Nums.Add(15);
+            Nums.Remove(15);
+            Nums.RemoveAt(0);
+            foreach (int num in Nums)
+            {
+                Console.WriteLine($"number is : {num}");
+            }
         }
         static void SayHello()
         {
