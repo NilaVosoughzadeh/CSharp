@@ -8,9 +8,10 @@ namespace CSharp
 {
     internal class Person
     {
-        public string name;
-        public string family;
-        public int age;
+        //Property
+        public string Name { get; set; }
+        public string Family { get; set; }
+        public int Age { get; set; }
         public static string website;
 
         //public Person(string name, string family, int age)

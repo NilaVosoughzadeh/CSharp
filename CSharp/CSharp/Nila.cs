@@ -10,7 +10,7 @@ namespace CSharp
     {
         public void ControlSpeed(int speed)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Speed Control");
         }
 
         public string HelloUser(string username)

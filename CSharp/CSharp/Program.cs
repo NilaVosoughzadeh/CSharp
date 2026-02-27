@@ -163,7 +163,7 @@ namespace CSharp
 
             //Static
             Person Vusi = new Person();
-            Vusi.name = "Arash";
+            Vusi.Name = "Arash";
             Person.website = "web";
             int sumy = Person.Sum(4, 4);
 
@@ -187,12 +187,32 @@ namespace CSharp
             {
                 Console.WriteLine($"number is : {num}");
             }
+            List<Person> people = new List<Person>();
+            Person p1 = new Person();
+            p1.Name = "Nila";
+            p1.Family = "Vo";
+            p1.Age = 20;
+            people.Add(p1);
+            Person p2 = new Person();
+            p2.Name = "Vania";
+            p2.Family = "Vo";
+            p2.Age = 16;
+            people.Add(p2);
+            foreach (Person p in people)
+            {
+                Console.WriteLine($"Name : {p.Name} Family {p.Family} Age : {p.Age}");
+            }
+            //IEnumerable<Person> list = new List<Person>();
 
             //Interface
             Nila nl = new Nila();
             Console.WriteLine(nl.HelloUser("Nila"));
             HiUser hi = new HiUser();
             Console.WriteLine(hi.HelloUser("Arash"));
+
+            //Polymorphism 
+            IMyInterface i1 = new Nila();
+            IMyInterface i2 = new HiUser();
         }
         static void SayHello()
         {
