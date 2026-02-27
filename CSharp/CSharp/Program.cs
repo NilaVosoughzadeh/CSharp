@@ -4,6 +4,7 @@ using System.Data.SqlTypes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace CSharp
 {
@@ -213,6 +214,13 @@ namespace CSharp
             //Polymorphism 
             IMyInterface i1 = new Nila();
             IMyInterface i2 = new HiUser();
+
+            //NameSpace
+            Console.WriteLine(DateTime.Now);
+            //Persian Calendar
+            PersianCalendar persian = new PersianCalendar();
+            string persianDate = persian.GetYear(DateTime.Now) + "/" + persian.GetMonth(DateTime.Now) + "/" + persian.GetDayOfMonth(DateTime.Now);
+            Console.WriteLine(persianDate);
         }
         static void SayHello()
         {
