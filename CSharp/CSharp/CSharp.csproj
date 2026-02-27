@@ -47,7 +47,10 @@
   <ItemGroup>
     <Compile Include="Car.cs" />
     <Compile Include="Child.cs" />
+    <Compile Include="HiUser.cs" />
+    <Compile Include="IMyInterface.cs" />
     <Compile Include="MyClass.cs" />
+    <Compile Include="Nila.cs" />
     <Compile Include="Parent.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />

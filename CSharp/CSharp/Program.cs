@@ -187,6 +187,12 @@ namespace CSharp
             {
                 Console.WriteLine($"number is : {num}");
             }
+
+            //Interface
+            Nila nl = new Nila();
+            Console.WriteLine(nl.HelloUser("Nila"));
+            HiUser hi = new HiUser();
+            Console.WriteLine(hi.HelloUser("Arash"));
         }
         static void SayHello()
         {
