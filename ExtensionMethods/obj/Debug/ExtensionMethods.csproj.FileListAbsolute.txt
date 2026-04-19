@@ -1,0 +1,8 @@
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\Mahan\Documents\GitHub\CSharp\ExtensionMethods\obj\Debug\ExtensionMethods.exe.config

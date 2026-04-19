@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\csharp\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E599624-4010-4005-A17B-5A6DBECFED2F}|CSharp\\CSharp.csproj|solutionrelative:csharp\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4839C0B2-60DC-4E72-A676-66E38C874E16}|MyAssembly\\MyAssembly.csproj|c:\\users\\mahan\\documents\\github\\csharp\\csharp\\myassembly\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PartialClass.cs",
+              "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\PartialClass.cs",
+              "RelativeDocumentMoniker": "CSharp\\PartialClass.cs",
+              "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\PartialClass.cs",
+              "RelativeToolTip": "CSharp\\PartialClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:01:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pet.cs",
               "DocumentMoniker": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\MyAssembly\\Pet.cs",
               "RelativeDocumentMoniker": "MyAssembly\\Pet.cs",
@@ -65,7 +82,7 @@
               "RelativeDocumentMoniker": "CSharp\\Program.cs",
               "ToolTip": "C:\\Users\\Mahan\\Documents\\GitHub\\CSharp\\CSharp\\CSharp\\Program.cs",
               "RelativeToolTip": "CSharp\\Program.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAQwN8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANYAAAAAAAAAAADwv+IAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T21:21:16.798Z",
               "EditorCaption": ""
