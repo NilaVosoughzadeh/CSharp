@@ -1,0 +1,11 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EF_Example.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EF_Example.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EF_Example.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\obj\Debug\EF_Example.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\obj\Debug\EF_Example.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\obj\Debug\EF_Example.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_04\EF_Example\EF_Example\obj\Debug\EF_Example.pdb
